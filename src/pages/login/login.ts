@@ -19,7 +19,10 @@ export class LoginPage {
   }
 
   navigateToPage(pageName: string) {
-    this.navCtrl.push(pageName)
+    if(pageName === 'InboxPage')
+      this.navCtrl.setRoot(pageName);
+    else
+      this.navCtrl.push(pageName)
   }
 
 }
