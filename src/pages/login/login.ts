@@ -15,14 +15,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class LoginPage {
 
-  constructor(private navCtrl: NavController, private navParams: NavParams) {
-  }
-
-  navigateToPage(pageName: string) {
-    if(pageName === 'TabsPage')
-      this.navCtrl.setRoot(pageName);
-    else
-      this.navCtrl.push(pageName)
+  constructor(private navParams: NavParams) {
   }
 
 }
