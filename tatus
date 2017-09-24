@@ -1,0 +1,53 @@
+[33mcommit abe6c0688c04498aca3037b6f8e1eac194d6ff72[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Sun Sep 24 23:35:41 2017 +0900
+
+    Creating User Account with AngularFire2
+
+[33mcommit 6af0b3f20f7c56e2da5ef306257d97c62ad48b62[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Sun Sep 24 23:01:54 2017 +0900
+
+    Adding Components and Refactoring
+
+[33mcommit ec2a6414953704cd5deec93bc1e863ac176a7035[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Sun Sep 24 22:09:05 2017 +0900
+
+    Showwing Message List
+
+[33mcommit f7e095b946851eab5bf5d51540f15da01923264e[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Thu Sep 21 22:33:39 2017 +0900
+
+    Mocking data
+
+[33mcommit aaf7c7f9565604e4e1dfa0f04a30ec74cf209726[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Tue Sep 19 23:52:49 2017 +0900
+
+    Tabs
+
+[33mcommit c6a57d966731209d12abe9581f928330e3021630[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Tue Sep 19 23:38:57 2017 +0900
+
+    Create Pages and Navigation
+
+[33mcommit fd3c15070d4a18ee4df89485017c8224c77a02f5[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Tue Sep 19 23:28:53 2017 +0900
+
+    Theming
+
+[33mcommit 6874c221d21e61924c26ed460195134b05136394[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Tue Sep 19 22:49:50 2017 +0900
+
+    Creat Login Page
+
+[33mcommit ba49cf03b472417d449b033f34bf887ab6ec4235[m
+Author: Kyeongyeon Song <kyeongyeon.song@gmail.com>
+Date:   Mon Sep 18 22:36:05 2017 +0900
+
+    Initial commit
